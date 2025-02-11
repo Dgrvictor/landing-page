@@ -1,0 +1,17 @@
+.footer {
+  background-color: rgb(73, 73, 73);
+  color: white;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.footer a {
+  font-size: 30px;
+  color: rgb(113, 227, 113);
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
